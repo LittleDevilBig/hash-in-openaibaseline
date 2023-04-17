@@ -1,2 +1,6 @@
 # hash-in-openaibaseline
-实在是整不上去 就放主要修改的算了
+
+use hash to count states in a2c 
+made better results
+
+graduate thesis 
